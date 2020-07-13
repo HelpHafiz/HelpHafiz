@@ -1,4 +1,4 @@
-### Assalam-o-Alaikum (السلام عليكم) Brother/Sisters,
+### Assalam-o-Alaikum (السلام عليكم) Brothers & Sisters,
 
 **HelpHafiz** is a non-profit organization, a platform for a Muslim community across the globe specially for Hafiz brothers and sisters. Our first tool under HelpHafiz will be **mutashabihat (متشابه)** which find and show the similar words which sometimes become difficult for Hafiz to remember.
 
