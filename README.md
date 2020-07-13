@@ -1,6 +1,6 @@
 ### Assalam-o-Alaikum (السلام عليكم) Brother/Sisters,
 
-**HelpHafiz** is a non-profit platform for a Muslim community across the globe specially for Hafiz brothers and sisters. Our first tool under HelpHafiz will be **mutashabihat (متشابه)** which find and show the similar words which sometimes become ambiguous for Hafiz.
+**HelpHafiz** is a non-profit platform for a Muslim community across the globe specially for Hafiz brothers and sisters. Our first tool under HelpHafiz will be **mutashabihat (متشابه)** which find and show the similar words which sometimes become difficult for Hafiz to remember.
 
 <!--
 **HelpHafiz/HelpHafiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
